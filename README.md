@@ -19,7 +19,7 @@ Multiprocessing and sequential implementation of NumPy matrix operations.
 It implements a single-threaded version and a multiprocessing version to speed up the computations.
 
 Run the code with:
-
+ 
 ```python
 python sequential.py
 ```
